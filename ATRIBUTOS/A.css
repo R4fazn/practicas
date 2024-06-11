@@ -1,0 +1,21 @@
+/* Estilos para enlaces que tiene el atributo href "muros.com"*/
+a[href*="muros.com"] {
+    color: green;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* Estilo para enlaces subrayados que tiene el atributo
+    href "edu.pe"*/
+a[href*="edu.pe"]{
+    color:red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+    h2{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: aqua;
+        font-size: 30px;
+}
+    h1{
+        text-align: center;
+        text-decoration: line-through;
+}

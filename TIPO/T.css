@@ -1,0 +1,12 @@
+/* Estilos para todos los elementos de párrafo (cambio de
+    color de texto y tamaño de texto) */
+p {
+    color: blue;
+    font-size: 25px;
+}
+/* Estilos para el subtitulo h2 (cambio de color de texto
+    y un subrayado de texto) */
+h1 {
+    color: red;
+    text-decoration:underline;
+}

@@ -1,0 +1,11 @@
+/* Estilos para p con la clase "texto" */
+.texto {
+    color: purple;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+/* Estilos para h1 con la clase "titulo" */
+.titulo {
+    color:red;
+    text-align: center;
+    text-decoration:line-through;
+}
